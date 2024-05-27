@@ -2,15 +2,16 @@
 
 #### Objetivos:
 
-1. Entender os que levou o surgimento da Arquitetura de Serviços Web;
+1. Entender o que levou ao surgimento da Arquitetura de Serviços Web;
 2. Compreender o que é um Serviço Web;
 3. Quais tipos de Serviços Web existem;
-4. Diferenciar uma serviço SOAP de um serviço REST.
+4. Diferenciar um serviço SOAP de um serviço REST.
 
 #### Pre-Requisitos
 
 1. Conhecimento sobre a arquitetura Web
 2. Javascript e NodeJS
+3. Ter instalado o Visual Code e nodeJS
 
 ---
 
