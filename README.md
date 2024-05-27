@@ -1,6 +1,6 @@
 ### Slide 1: **Arquitetura e Organização de Serviços Web**
 
-![1716779943896](./image/README/1716779943896.png)
+<img src="./image/README/1716779943896.png" alt="Logo" width="600" height="400">
 
 #### Objetivos:
 
