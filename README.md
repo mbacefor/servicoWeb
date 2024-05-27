@@ -1,13 +1,13 @@
 ### Slide 1: **Arquitetura e Organização de Serviços Web**
 
-## Objetivos:
+#### Objetivos:
 
 1. Entender os que levou o surgimento da Arquitetura de Serviços Web;
 2. Compreender o que é um Serviço Web;
 3. Quais tipos de Serviços Web existem;
 4. Diferenciar uma serviço SOAP de um serviço REST.
 
-## Pre-Requisitos
+#### Pre-Requisitos
 
 1. Conhecimento sobre a arquitetura Web
 2. Javascript e NodeJS
