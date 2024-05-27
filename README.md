@@ -1,5 +1,7 @@
 ### Slide 1: **Arquitetura e Organização de Serviços Web**
 
+![1716779943896](./image/README/1716779943896.png)
+
 #### Objetivos:
 
 1. Entender o que levou ao surgimento da Arquitetura de Serviços Web;
