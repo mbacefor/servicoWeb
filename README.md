@@ -19,6 +19,8 @@
 
 ### Slide 2: Por Que Surgiu a Arquitetura de Serviços Web?
 
+<img src="./image/README/1716780747873.png" alt="Logo" width="600" height="400">
+
 **Motivações para a Arquitetura de Serviços Web**
 
 * **Interoperabilidade** : Necessidade de integrar sistemas diferentes e heterogêneos.
