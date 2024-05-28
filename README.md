@@ -19,6 +19,14 @@
 
 ### Slide 2: Por Que Surgiu a Arquitetura de Serviços Web?
 
+**Arquitetura Web Tradicional**
+
+<img src="image/README/1716897169759.png" alt="Logo" width="650" height="440">
+
+---
+
+### Slide 3: Por Que Surgiu a Arquitetura de Serviços Web?
+
 <img src="./image/README/1716780747873.png" alt="Logo" width="600" height="400">
 
 **Motivações para a Arquitetura de Serviços Web**
@@ -42,7 +50,7 @@
 
 ---
 
-### Slide 3: Histórico dos Serviços Web
+### Slide 4: Histórico dos Serviços Web
 
 **Histórico dos Serviços Web**
 
@@ -58,9 +66,11 @@
 
 ---
 
-### Slide 4: Introdução
+### Slide 5: Introdução
 
 **O que são Serviços Web?**
+
+<img src="image/README/1716897657098.png" alt="Logo" width="100%" height="400">
 
 * Permitem a comunicação entre diferentes aplicações através da web.
 * ***"Geralmente, uma interface de serviço Web consiste em um conjunto de operações que podem ser usadas por um cliente na Internet. As operações de um serviço Web podem ser fornecidas por uma variedade de recursos diferentes, por exemplo, programas, objetos ou bancos de dados. Um serviço Web pode ser gerenciado por um servidor Web, junto a páginas Web, ou pode ser um serviço totalmente separado."***
@@ -68,7 +78,15 @@
 
 ---
 
-### Slide 5: Componentes Principais
+### Slide 6: Introdução
+
+**Arquitetura SOA**
+
+<img src="image/README/1716897493394.png" alt="Logo" width="650" height="440">
+
+---
+
+### Slide 7: Componentes Principais
 
 **Componentes Principais de Serviços Web**
 
@@ -78,11 +96,11 @@
 
 ---
 
-### Slide 6: Arquitetura de Serviços Web
+### Slide 8: Arquitetura de Serviços Web
 
 **Modelos de Arquitetura**
 
-1. **SOA (Service-Oriented Architecture)**
+1. **SOA (Service-Oriented Architecture) / SOAP ()Simple Object Access Protocol)**
    * Coleção de serviços que se comunicam entre si.
 2. **REST (Representational State Transfer)**
    * Baseado em recursos, usa HTTP e operações padrão (GET, POST, PUT, DELETE).
@@ -91,7 +109,9 @@
 
 ---
 
-### Slide 7: SOAP
+### Slide 9: SOAP
+
+<img src="image/README/1716897934122.png" alt="Logo" width="100%" height="400">
 
 **Definição:** *" SOAP, ou Simple Object Access Protocol (não confundir com SOA), é um protocolo para criação de **serviços web distribuídos** e descentralizados, os famosos web services, que permitem a troca de informações entre sistemas, usando o formato **XML**."*
 
@@ -103,7 +123,9 @@
 
 ---
 
-### Slide 8: RESTful Services
+### Slide 10: RESTful Services
+
+<img src="image/README/1716898184270.png" alt="Logo" width="100%" height="400">
 
 **Definição:** "REST não é um protocolo ou padrão, mas sim um conjunto de restrições de arquitetura. Os desenvolvedores de API podem implementar a arquitetura REST de maneiras variadas."
 
@@ -116,7 +138,9 @@
 
 ---
 
-### Slide 9: Organização de Serviços Web
+### Slide 11: Organização de Serviços Web
+
+<img src="image/README/1716915517777.png" alt="Logo" width="100%" height="400">
 
 **Organização de Serviços Web**
 
@@ -126,17 +150,17 @@
 
 ---
 
-### Slide 10: Segurança em Serviços Web
+### Slide 12: Segurança em Serviços Web
 
 **Segurança em Serviços Web**
 
-* **Autenticação e Autorização** : Uso de OAuth, JWT.
+* **Autenticação e Autorização** : Uso de OAuth, JWT (JSON Web Token)).
 * **Criptografia** : SSL/TLS para comunicação segura.
 * **Firewalls e Gateways** : Proteção contra ataques externos.
 
 ---
 
-### Slide 11: Ferramentas e Tecnologias
+### Slide 13: Ferramentas e Tecnologias
 
 **Ferramentas e Tecnologias**
 
@@ -147,7 +171,7 @@
 
 ---
 
-### Slide 12: Exemplo de Aplicação SOA com JavaScript
+### Slide 14: Exemplo de Aplicação SOA com JavaScript
 
 **Exemplo de Aplicação SOA com JavaScript**
 
@@ -191,7 +215,7 @@
 
 ---
 
-### Slide 13: Exemplo de Aplicação REST com JavaScript
+### Slide 15: Exemplo de Aplicação REST com JavaScript
 
 **Exemplo de Aplicação REST com JavaScript**
 
@@ -224,7 +248,9 @@
 
 ---
 
-### Slide 14: Conclusão
+### Slide 16: Conclusão
+
+<img src="image/README/1716915798049.png" alt="Logo" width="100%" height="400">
 
 **Conclusão**
 
@@ -234,13 +260,15 @@
 
 ---
 
-### Slide 15: Perguntas?
+### Slide 17: Perguntas?
+
+<img src="image/README/1716915717847.png" alt="Logo" width="100%" height="400">
 
 **Perguntas?**
 
 * Espaço para discussão e dúvidas.
 
-### Slide 16: Quiz - Perguntas e Respostas
+### Slide 18: Quiz - Perguntas e Respostas
 
 **Quiz - Teste seus conhecimentos sobre Serviços Web**
 
